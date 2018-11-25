@@ -1,1 +1,1 @@
-application code ,needs to modified for sqlite in memory feature
+this example is to show android app using QML & CPP
